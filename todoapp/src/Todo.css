@@ -1,0 +1,19 @@
+.card{
+  padding: 10px;
+  min-height : 200px;
+  width : 300px;
+  display: flex;
+  background-color: pink;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  border : 1px solid black;
+  border-radius: 20px;
+}
+.card button{
+  background-color: rgb(17, 238, 186);
+  color: rgb(23, 1, 1);
+  padding: 8px;
+  border-radius: 20px;
+}
